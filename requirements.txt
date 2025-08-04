@@ -1,0 +1,6 @@
+pandas
+ta
+joblib
+python-binance
+websocket-client
+
